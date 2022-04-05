@@ -1,0 +1,5 @@
+Algoritmo Preguntar_nombre
+	Escribir " Digite su nombre "
+	Leer Nombre
+	Escribir "¡hola! " nombre 
+FinAlgoritmo

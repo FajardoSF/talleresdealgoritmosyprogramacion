@@ -1,0 +1,10 @@
+Algoritmo Inicio_variables
+	Leer a
+	Escribir "Digitar valor de A: "
+	Leer b
+	x<-a
+	a<-b
+	b<-x
+	Escribir " El valor de A es: " a
+	Escribir " El valor de B es: " b
+FinAlgoritmo

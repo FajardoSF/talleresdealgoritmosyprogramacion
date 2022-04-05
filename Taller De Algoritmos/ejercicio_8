@@ -1,0 +1,8 @@
+Algoritmo Inicio_Minutos
+	Escribir " Digite los minutos: "
+	Leer Minutos
+	Horas<-trunc(Minutos/60)
+	Minutos1<-(minutos MOD 60)
+	Escribir  " Horas: " Horas
+	Escribir  " Minutos: " Minutos1
+FinAlgoritmo

@@ -1,0 +1,9 @@
+Algoritmo Inicio_invertido
+	Escribir "Digite un numero: "
+	Leer numerox
+	invertido<-SubCadena(numerox,1,1)
+	invertido2<-SubCadena(numerox,2,2)
+	Escribir " Numero ivertido: "  invertido2 invertido
+	
+	
+FinAlgoritmo

@@ -1,0 +1,19 @@
+Algoritmo Inicio_comisiones 
+	Escribir "Escribe las 3 ventas del mes:  "
+	Leer venta1
+	Leer venta2
+	leer venta3
+	Escribir "Escribe el sueldo base: "
+	leer sueldo
+	comision <-(venta1 + venta2 + venta3) *0.10 
+Escribir "El sueldo base es: " sueldo
+	
+Escribir "La comision del mes es: " comision
+	
+Escribir "El sueldo total del mes es: " sueldo + comision
+
+
+	
+	
+	
+FinAlgoritmo

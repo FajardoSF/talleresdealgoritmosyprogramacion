@@ -1,0 +1,21 @@
+Algoritmo Calificacion_final
+	Escribir "Digite las notas de los parciales: "
+	Leer Nota11
+	Leer Nota12
+	Leer Nota13
+	NotaP<-((Nota11+Nota12+Nota13)/3)
+	Nota1<-(NotaP*0.55)
+	Escribir "Digite su nota final del examen"
+	Leer nota14
+	Nota2<-(nota14*0.30)
+	Escribir " Digite su nota de trabajo final "
+	Leer Nota15
+	Nota3<-(Nota15*0.15)
+	Escribir " Resultado: "
+	Nota_definitiva<-(Nota1+Nota2+Nota3)
+	Escribir " Nota Parciales " Nota1
+	Escribir " Nota Examen " Nota2
+	Escribir " Nota Trabajo " Nota3 
+	Escribir " Nota final "  Nota_definitiva
+	
+FinAlgoritmo

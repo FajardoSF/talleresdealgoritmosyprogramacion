@@ -1,0 +1,10 @@
+Algoritmo Inicio_pares_de_numeros
+	Escribir " Digite dos pares de numeros"
+	Leer x1
+	Leer y1
+	Leer x2 
+	Leer y2
+	d<-raiz((x2-y1)^(2)+(x1-y2)^(2))
+	Escribir "Distancia: " d
+	
+FinAlgoritmo

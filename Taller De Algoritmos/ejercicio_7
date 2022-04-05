@@ -1,0 +1,9 @@
+Algoritmo Inicio_media_teclas_perdidas
+	Escribir "Digite tres numeros: "
+	Leer numerox
+	Leer nomerox1
+	Leer numerox2
+	Media<-((numerox+nomerox1+numerox2)/3)
+	Escribir "Media: " Media
+	
+FinAlgoritmo

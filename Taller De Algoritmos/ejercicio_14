@@ -1,0 +1,9 @@
+Algoritmo inicio_raiz_cuadrada_raiz_cubica
+	Escribir "Digite el valor: "
+	Leer numerox
+	raiz_cuadrada<-raiz(numerox)
+	raiz_cubica1<-numerox^(1/3)
+	Escribir "raiz cuadrada: " raiz_cuadrada
+	Escribir "raiz_cubica1: " raiz_cubica1
+	
+FinAlgoritmo

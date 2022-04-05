@@ -1,0 +1,10 @@
+Algoritmo Inicio_tiempo_alcanzar_carro
+	Escribir " Digite velocidades y distancia: "
+	Leer V1
+	Leer V2
+	Leer d
+	Tiempo<-60 * d / (V1 -V2)
+	Escribir "Tiempo: " Tiempo
+	
+	
+FinAlgoritmo

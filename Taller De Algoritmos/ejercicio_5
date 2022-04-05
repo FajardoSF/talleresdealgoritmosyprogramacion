@@ -1,0 +1,14 @@
+Algoritmo Suma_resta_multiplicacion_division
+	Escribir "Digite dos numeros "
+	Leer Numerox
+	Leer Numerox2
+	Suma<-Numerox+Numerox2
+	Resta<-Numerox-Numerox2
+	Multiplicacion<-Numerox*Numerox2
+	Division<-Numerox/Numerox2
+	Escribir " Suma: " Suma
+	Escribir " Resta: " Resta
+	Escribir " Multiplicacion: " Multiplicacion
+	Escribir " Division. " Division
+	
+FinAlgoritmo

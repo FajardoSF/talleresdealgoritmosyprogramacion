@@ -1,0 +1,9 @@
+Algoritmo Calcular_hipotenusa
+	Escribir "Digete los catetos"
+	Leer cateto1
+	Leer cateto2
+	Hipotenusa<-raiz(cateto1^(2)+cateto2^(2))
+	Escribir " Hipotenusa: " hipotenusa
+	
+	
+FinAlgoritmo

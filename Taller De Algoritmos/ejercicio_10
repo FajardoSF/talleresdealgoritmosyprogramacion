@@ -1,0 +1,6 @@
+Algoritmo Inicio_decuento_15
+	Leer comprax
+	compras<-((comprax*15)/100)
+	total_compra<-(comprax-compras)
+	Escribir "Total de la compra aplicando el descuento: " total_compra
+FinAlgoritmo

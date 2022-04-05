@@ -1,0 +1,9 @@
+Algoritmo Inicio_area_volumen
+	Escribir " Digite un area y un volumen "
+	Leer base
+	Leer altura
+	area<-base*altura
+	perimetro<-2*(base)+2*(altura)
+	Escribir " Area: " area
+	Escribir " Perimetro: " perimetro
+FinAlgoritmo
